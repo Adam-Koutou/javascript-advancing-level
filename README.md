@@ -70,3 +70,7 @@ Read the file and learn prototypes chain with inheriting process
 // how to create an object instance 
 
 ```
+
+## The course is close for a moment
+We'll improve this course by adding additional files and lessons next.
+##
